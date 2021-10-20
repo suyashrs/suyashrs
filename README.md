@@ -1,6 +1,6 @@
-- Hello, I’m @suyashrs
+#Welcome to devSuyash's GitHub#
+Hello there, my name is Suyash 
 - I am interested in human-computer interaction, VR/AR Design, and game development
-- I'm currently learning C#, Unity, and NodeJS
 - I'm looking to collaborate on app development for iOS and android, AR/VR Development, and game development
 - You can reach me by email: suyash.rs@alumni.ubc.ca 
 
