@@ -1,8 +1,8 @@
 Welcome to devSuyash's GitHub
 
 Hello there, my name is Suyash 
-- I am interested in web-development, VR/AR programming, and game development
-- I'm looking to collaborate on app development for iOS and android, AR/VR Development, and game development
+- I am interested in web-development, game development, and animation
+- I'm looking to collaborate on full-stack development and game development
 - You can reach me by email: suyashshingare@gmail.com
 
 <!---
