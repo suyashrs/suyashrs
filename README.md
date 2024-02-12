@@ -1,8 +1,8 @@
-Welcome to devSuyash's GitHub
+Welcome to Suyash's GitHub
 
 Hello there, my name is Suyash 
-- I am interested in web-development, game development, and animation
-- I'm looking to collaborate on full-stack development and game development
+- I am interested in web development, game development, and animation
+- I'm looking to collaborate on full-stack development and game development projects to learn and improve my programming and problem-solving skills
 - You can reach me by email: suyashshingare@gmail.com
 
 <!---
